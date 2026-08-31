@@ -1,9 +1,13 @@
 # Site Settings
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "sunrise"
-title: kflick3r's homepage
-description: Bookmark this to keep an eye on my project updates!
 
-# Pluggins
-- jekyll-remote-theme
-- jekyll-include-cache
+title: "kflick3r's homepage"
+description: "Bookmark this to keep an eye on my project updates!"
+
+# Plugins
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
