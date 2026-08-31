@@ -7,16 +7,16 @@
 </picture>
 
 ## About Me
-Hey there, I'm Kassidy! This is my personal portfolio of work. 
+Hey there, I'm Kassidy! :blush: This is my personal portfolio of work. 
 <!-- TO DO: Add More Details -->
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> If we pull together and commit ourselves, then we can push through anything. [^1]
 
-— Mona the Octocat
+[^1]: *Mona the Octocat*
 
 <details>
-<summary>My top Programming Languages</summary>
+<summary>My top Programming Languages :partying_face:</summary>
 
 | | LANGUAGES |  
 |-----:|---------------|  
@@ -26,3 +26,7 @@ Hey there, I'm Kassidy! This is my personal portfolio of work.
 |4| SQL |  
 </details>
 
+## To Do
+- [x] Start Webpage
+- [ ] Figure out how to add a theme
+- [ ] Add more info :pinching_hand:
