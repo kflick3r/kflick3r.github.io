@@ -15,13 +15,14 @@ Hey there, I'm Kassidy! This is my personal portfolio of work.
 
 — Mona the Octocat
 
-<details open>
+<details>
 <summary>My top Programming Languages</summary>
-|| LANGUAGES |
-|-----:|---------------|
-|1| Python |
-|2| C++ |
-|3| HTML |
-|4| SQL |
+
+| | LANGUAGES |  
+|-----:|---------------|  
+|1| Python |  
+|2| C++ |  
+|3| HTML |  
+|4| SQL |  
 </details>
 
