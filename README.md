@@ -16,7 +16,7 @@ Hey there, I'm Kassidy! This is my personal portfolio of work.
 — Mona the Octocat
 
 <details>
-<summary>My top Programming Languages</summary>
+<summary>My Top Programming Languages</summary>
 
 | | LANGUAGES |  
 |-----:|---------------|  
