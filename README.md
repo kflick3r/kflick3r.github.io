@@ -16,7 +16,7 @@ Hey there, I'm Kassidy! :blush: This is my personal portfolio of work.
 [^1]: *Mona the Octocat*
 
 <details>
-<summary>My top Programming Languages :partying_face:</summary>
+<summary>My Top Programming Languages :partying_face:</summary>
 
 | | LANGUAGES |  
 |-----:|---------------|  
