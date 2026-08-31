@@ -7,7 +7,7 @@
 </picture>
 
 ## About Me
-Hey there, I'm Kassidy! :blush: This is my personal portfolio of work. 
+Hey there, I'm Kassidy! This is my personal portfolio of work. 
 <!-- TO DO: Add More Details -->
 
 ---
@@ -16,7 +16,7 @@ Hey there, I'm Kassidy! :blush: This is my personal portfolio of work.
 [^1]: *Mona the Octocat*
 
 <details>
-<summary>My Top Programming Languages :partying_face:</summary>
+<summary>My Top Programming Languages</summary>
 
 | | LANGUAGES |  
 |-----:|---------------|  
@@ -28,5 +28,5 @@ Hey there, I'm Kassidy! :blush: This is my personal portfolio of work.
 
 ## To Do
 - [x] Start Webpage
-- [ ] Figure out how to add a theme
-- [ ] Add more info :pinching_hand:
+- [x] Figure out how to add a theme
+- [ ] Add more info 
