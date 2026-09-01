@@ -8,14 +8,18 @@ This is my personal portfolio of work. This website is currently *in progress*.
 *Section In Progress*
 
 <details>
-<summary>My Top Programming Languages</summary>
+<summary>Languages & Technologies</summary>
 
-| | LANGUAGES |  
-|-----:|---------------|  
-|1| Python |  
-|2| C++ |  
-|3| HTML |  
-|4| SQL |  
+|   | Language / Technology |
+|--:|-----------------------|
+| 1 | Python                |
+| 2 | C++                   |
+| 3 | HTML                  |
+| 4 | SQL                   |
+| 5 | CSS                   |
+| 6 | Flask                 |
+| 7 | Git                   |
+
 </details>
 
 ---
@@ -31,19 +35,19 @@ This is my personal portfolio of work. This website is currently *in progress*.
 ---
 ## Currently
 
-**Studying:** Bachelor of Science in Applied Computer Science
+- **Studying:** Bachelor of Science in Applied Computer Science
 
-**Working on:** Web Development
+- **Working on:** Web Development
 
-**Learning:** Natural Language Processing, Machine Learning
+- **Learning:** Natural Language Processing, Machine Learning
 
-**Interested in:** Software Engineering, Web Development, Machine Learning, Data
+- **Interested in:** Software Engineering, Web Development, Machine Learning, Data
 
 ---
 ## Let's Connect
 
 I'm always happy to connect with others in tech, education, music, or anyone else making an unexpected career change.
 
-- **LinkedIn:** [LinkedIn URL](www.linkedin.com/in/kassidy-flick)
-- **GitHub:** [GitHub URL](https://github.com/kflick3r)
-- **Email:** kassidy.flick11@gmail.com
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kassidy-flick)
+- **GitHub:** [View my GitHub](https://github.com/kflick3r)
+- **Email:** [kassidy.flick11@gmail.com](mailto:kassidy.flick11@gmail.com)
