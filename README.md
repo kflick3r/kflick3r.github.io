@@ -1,19 +1,11 @@
-# kflick3r.github.io
+# Hi, I'm Kassidy 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-## About Me
-Hey there, I'm Kassidy! This is my personal portfolio of work. 
-<!-- TO DO: Add More Details -->
+This is my personal portfolio of work. This website is currently *in progress*.
 
 ---
-> If we pull together and commit ourselves, then we can push through anything. [^1]
+## About Me
 
-[^1]: *Mona the Octocat*
+*Section In Progress*
 
 <details>
 <summary>My Top Programming Languages</summary>
@@ -26,7 +18,32 @@ Hey there, I'm Kassidy! This is my personal portfolio of work.
 |4| SQL |  
 </details>
 
-## To Do
-- [x] Start Webpage
-- [x] Figure out how to add a theme
-- [ ] Add more info 
+---
+## Projects
+
+*Section In Progress*
+
+---
+## Resume
+
+*Section In Progress*
+
+---
+## Currently
+
+**Studying:** Bachelor of Science in Applied Computer Science
+
+**Working on:** Web Development
+
+**Learning:** Natural Language Processing, Machine Learning
+
+**Interested in:** Software Engineering, Web Development, Machine Learning, Data
+
+---
+## Let's Connect
+
+I'm always happy to connect with others in tech, education, music, or anyone else making an unexpected career change.
+
+- **LinkedIn:** [LinkedIn URL](www.linkedin.com/in/kassidy-flick)
+- **GitHub:** [GitHub URL](https://github.com/kflick3r)
+- **Email:** kassidy.flick11@gmail.com
