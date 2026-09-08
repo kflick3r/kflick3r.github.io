@@ -50,6 +50,12 @@ I'm currently researching and comparing potential career paths, including softwa
 
 As I narrow my focus, I'll use this site to document what I learn and showcase the projects that best represent my skills.
 
+### Weekly Progress
+
+I'm documenting the development of this project throughout the semester.
+
+[View my weekly project updates →](/weekly-updates/)
+
 ---
 
 ## Projects
