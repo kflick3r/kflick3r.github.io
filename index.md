@@ -8,7 +8,6 @@ Welcome! I'm Kassidy, a computer science student with a background in music and 
 
 This portfolio is a work in progress and will continue to grow as I complete projects, explore career paths, and develop my technical skills.
 
----
 
 ## About Me
 
@@ -32,7 +31,6 @@ I'm currently exploring several areas of computer science to determine where my 
 
 </details>
 
----
 
 ## Professional Development Project
 
@@ -44,19 +42,18 @@ My project currently includes three main areas:
 2. **Professional Preparation** — Improving my resume, LinkedIn, GitHub, and personal portfolio based on what I learn.
 3. **Technical Portfolio Project** — Selecting and beginning a larger project that demonstrates skills relevant to the career direction I choose.
 
-### Current Phase: Career Exploration
+#### Current Phase: Career Exploration
 
 I'm currently researching and comparing potential career paths, including software engineering, web development, machine learning, NLP, and data-focused roles.
 
 As I narrow my focus, I'll use this site to document what I learn and showcase the projects that best represent my skills.
 
-### Weekly Progress
+#### Weekly Progress
 
 I'm documenting the development of this project throughout the semester.
 
 [View my weekly project updates →](/weekly-updates/)
 
----
 
 ## Projects
 
@@ -70,7 +67,6 @@ The project gave me experience working on a larger software project using an Agi
 
 More projects coming soon.
 
----
 
 ## Resume
 
@@ -78,7 +74,6 @@ My resume is currently being updated as part of my professional development proj
 
 A downloadable version will be added here soon.
 
----
 ## Currently
 
 - **Studying:** Bachelor of Science in Applied Computer Science
@@ -89,7 +84,6 @@ A downloadable version will be added here soon.
 
 - **Interested in:** Software Engineering, Web Development, Machine Learning, Data
 
----
 ## Let's Connect
 
 I'm always happy to connect with others in tech, education, music, or anyone else making an unexpected career change.
