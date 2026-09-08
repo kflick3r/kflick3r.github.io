@@ -1,7 +1,7 @@
 # Site Settings
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "catppuccin_mocha"
+minimal_mistakes_skin: "dark"
 
 title: "Kassidy Flick"
 description: "Computer Science portfolio featuring projects, coursework, and professional development."
