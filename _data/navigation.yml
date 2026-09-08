@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Weekly Updates"
+    url: /weekly-updates/
+
+  - title: "GitHub"
+    url: https://github.com/kflick3r
+
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/kassidy-flick
