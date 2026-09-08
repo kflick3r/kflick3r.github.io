@@ -6,9 +6,8 @@ permalink: /weekly-updates/
 
 This page documents the weekly progress of my Fall 2026 Professional Development in Computer Science project.
 
-{% assign updates = site.categories["weekly-updates"] %}
+{% for post in site.categories.weekly-updates %}
 
-{% for post in updates %}
 ## [{{ post.title }}]({{ post.url | relative_url }})
 
 *{{ post.date | date: "%B %-d, %Y" }}*
@@ -18,4 +17,5 @@ This page documents the weekly progress of my Fall 2026 Professional Development
 [Read full update →]({{ post.url | relative_url }})
 
 ---
+
 {% endfor %}
