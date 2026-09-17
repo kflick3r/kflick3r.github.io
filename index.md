@@ -41,7 +41,7 @@ I began the semester by researching and comparing several career paths. Based on
 
 #### **Current Phase: Portfolio Project**
 
-For the technical portion of my project, I am developing **GroundWork: AI-Powered Study Practice Grounded in Your Course Materials**.
+For the technical portion of my project, I am developing **StudySync - *AI Study Buddy: An Interactive Study Companion for Students***.
 
 GroundWork is an exam preparation web application that will allow students to use their own course notes and previous assessment materials to prepare for upcoming exams. The application will use retrieval-augmented generation (RAG) to create new practice questions and explanations grounded in the student's provided course materials.
 
@@ -76,7 +76,7 @@ A downloadable version will be added here soon.
 ## **Currently**
 
 - **Studying:** B.S. in Applied Computer Science at CU Boulder
-- **Building:** GroundWork
+- **Building:** StudySync
 - **Learning:** Machine Learning, Natural Language Processing, and Web Development
 - **Career Focus:** Software Engineering / Software Development
 - **Exploring:** Applied AI
