@@ -13,7 +13,7 @@ This portfolio is a work in progress and will continue to grow as I complete pro
 
 Before studying computer science, I worked as a music educator and classical vocalist. My transition into technology has given me the opportunity to combine problem solving, creativity, communication, and continuous learning in a new field.
 
-I'm currently exploring several areas of computer science to determine where my skills and interests are the best fit.
+I'm particularly interested in software development and in exploring how AI and machine learning can be incorporated into useful applications.
 
 <details markdown="1">
 
@@ -28,27 +28,26 @@ I'm currently exploring several areas of computer science to determine where my 
 | 5 | SQL |
 | 6 | Flask |
 | 7 | Git |
+| 8 | JavaScript |
 
 </details>
 
 
-## Professional Development Project
+## **Professional Development Project**
 
 During Fall 2026, I'm completing a semester-long professional development project focused on preparing for my transition into the computer science industry.
 
-My project currently includes three main areas:
+I began the semester by researching and comparing several career paths. Based on that research, I am currently focusing on **Software Engineering/Software Development** as my primary career direction, while exploring **Applied AI** as an area I may want to move toward as I gain professional experience.
 
-1. **Career Exploration** — Researching computer science career paths, day-to-day responsibilities, required skills, and current employer expectations.
-2. **Professional Preparation** — Improving my resume, LinkedIn, GitHub, and personal portfolio based on what I learn.
-3. **Technical Portfolio Project** — Selecting and beginning a larger project that demonstrates skills relevant to the career direction I choose.
+#### **Current Phase: Portfolio Project**
 
-#### Current Phase: Career Exploration
+For the technical portion of my project, I am developing **GroundWork: AI-Powered Study Practice Grounded in Your Course Materials**.
 
-I'm currently researching and comparing potential career paths, including software engineering, web development, machine learning, NLP, and data-focused roles.
+GroundWork is an exam preparation web application that will allow students to use their own course notes and previous assessment materials to prepare for upcoming exams. The application will use retrieval-augmented generation (RAG) to create new practice questions and explanations grounded in the student's provided course materials.
 
-As I narrow my focus, I'll use this site to document what I learn and showcase the projects that best represent my skills.
+Through this project, I plan to strengthen my software-development skills while gaining hands-on experience with technologies that are new to me, including LLM APIs, RAG, embeddings, vector retrieval, and prompt/context engineering.
 
-#### Weekly Progress
+#### **Weekly Progress**
 
 I'm documenting the development of this project throughout the semester.
 
@@ -65,7 +64,7 @@ A team-developed web application for exploring and comparing career information.
 
 The project gave me experience working on a larger software project using an Agile workflow, collaborating through Git, and building a database-backed Flask application.
 
-More projects coming soon.
+**More projects coming soon.**
 
 
 ## Resume
@@ -74,15 +73,13 @@ My resume is currently being updated as part of my professional development proj
 
 A downloadable version will be added here soon.
 
-## Currently
+## **Currently**
 
-- **Studying:** Bachelor of Science in Applied Computer Science
-
-- **Working on:** Web Development
-
-- **Learning:** Natural Language Processing, Machine Learning
-
-- **Interested in:** Software Engineering, Web Development, Machine Learning, Data
+- **Studying:** B.S. in Applied Computer Science at CU Boulder
+- **Building:** GroundWork
+- **Learning:** Machine Learning, Natural Language Processing, and Web Development
+- **Career Focus:** Software Engineering / Software Development
+- **Exploring:** Applied AI
 
 ## Let's Connect
 
