@@ -27,8 +27,9 @@ I'm particularly interested in software development and in exploring how AI and 
 | 4 | CSS |
 | 5 | SQL |
 | 6 | Flask |
-| 7 | Git |
-| 8 | JavaScript |
+| 7 | Streamlit |
+| 8 | Git |
+| 9 | JavaScript |
 
 </details>
 
@@ -43,28 +44,44 @@ I began the semester by researching and comparing several career paths. Based on
 
 For the technical portion of my project, I am developing **StudySync - *AI Study Buddy: An Interactive Study Companion for Students***.
 
-GroundWork is an exam preparation web application that will allow students to use their own course notes and previous assessment materials to prepare for upcoming exams. The application will use retrieval-augmented generation (RAG) to create new practice questions and explanations grounded in the student's provided course materials.
+StudySync is an AI-assisted study application designed to turn students' own course materials into personalized study resources and practice activities. For the initial MVP, I am focusing on Natural Language Processing course notes and four study tools: Review Guides, Flashcards, Multiple Choice questions, and Short Response practice.
 
-Through this project, I plan to strengthen my software-development skills while gaining hands-on experience with technologies that are new to me, including LLM APIs, RAG, embeddings, vector retrieval, and prompt/context engineering.
+I am currently building the application in Python using Streamlit. Through this project, I am strengthening my software-development skills while gaining hands-on experience with LLM integration, prompt and context design, AI output evaluation, and building a user-focused AI application.
+
+The initial MVP is intentionally narrow so I can focus on building and evaluating a complete study workflow before considering additional subjects and features.
+
 
 #### **Weekly Progress**
 
-I'm documenting the development of this project throughout the semester.
+I'm documenting the development of StudySync throughout the semester, including project planning, design decisions, new technologies, implementation, and reflection.
 
 [View my weekly project updates →](/weekly-updates/)
 
 
 ## Projects
 
-### Career Analysis Tool
+### StudySync
+
+An AI-assisted study application that generates study resources and interactive practice from student-provided course materials.
+
+Technologies: Python, Streamlit, Git
+
+Current Status: In development
+
+[Follow the development of StudySync →](/weekly-updates/)
+
+### TalentTrail
+**Career Analysis Tool**
 
 A team-developed web application for exploring and comparing career information.
 
-**Technologies:** Python, Flask, SQLite, HTML/CSS, Git, Jira
+Technologies: Python, Flask, SQLite, HTML/CSS, Git, Jira
 
 The project gave me experience working on a larger software project using an Agile workflow, collaborating through Git, and building a database-backed Flask application.
 
-**More projects coming soon.**
+GitHub: [TalentTrail](https://github.com/kflick3r/Talent_Trail)
+
+### More projects coming soon.
 
 
 ## Resume
@@ -77,7 +94,7 @@ A downloadable version will be added here soon.
 
 - **Studying:** B.S. in Applied Computer Science at CU Boulder
 - **Building:** StudySync
-- **Learning:** Machine Learning, Natural Language Processing, and Web Development
+- **Learning:** Machine Learning, Natural Language Processing, Streamlit, AI application development, and Web Development
 - **Career Focus:** Software Engineering / Software Development
 - **Exploring:** Applied AI
 
