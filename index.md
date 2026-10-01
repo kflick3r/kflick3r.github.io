@@ -33,6 +33,28 @@ I'm particularly interested in software development and exploring how AI and mac
 
 </details>
 
+## **Resume**
+
+My resume highlights my education, technical skills, project experience, and professional background.
+
+[View my resume →](/assets/files/Kassidy_Flick_Resume.pdf)
+
+
+## **Currently**
+
+- **Studying:** B.S. in Applied Computer Science at CU Boulder
+- **Building:** StudySync
+- **Learning:** Machine Learning, Natural Language Processing, Streamlit, AI application development, and Web Development
+- **Career Focus:** Software Engineering / Software Development
+- **Exploring:** Applied AI
+
+## Education
+
+**University of Colorado Boulder**  
+B.S. in Applied Computer Science — Expected May 2027
+
+*Relevant Coursework:* Machine Learning, Natural Language Processing, Data Structures & Algorithms, Algorithms, Linear Algebra, Data Science & Statistics, and Software Development Strategies
+
 
 ## **Professional Development Project**
 
@@ -86,23 +108,6 @@ The project gave me experience working on a larger software project using an Agi
 
 GitHub: [TalentTrail](https://github.com/kflick3r/Talent_Trail)
 
-### More projects coming soon.
-
-
-## Resume
-
-My resume highlights my education, technical skills, project experience, and professional background.
-
-[View my resume →](/assets/files/Kassidy_Flick_Resume.pdf)
-
-
-## **Currently**
-
-- **Studying:** B.S. in Applied Computer Science at CU Boulder
-- **Building:** StudySync
-- **Learning:** Machine Learning, Natural Language Processing, Streamlit, AI application development, and Web Development
-- **Career Focus:** Software Engineering / Software Development
-- **Exploring:** Applied AI
 
 ## Let's Connect
 
@@ -111,3 +116,4 @@ I'm always happy to connect with others in tech, education, music, or anyone els
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kassidy-flick)
 - **GitHub:** [View my GitHub](https://github.com/kflick3r)
 - **Email:** [kassidy.flick11@gmail.com](mailto:kassidy.flick11@gmail.com)
+
