@@ -73,7 +73,7 @@ Current Status: In development
 
 GitHub: [StudySync](https://github.com/kflick3r/StudySync)
 
-[Follow the weekly developments of StudySync →](/weekly-updates/)
+[Follow the weekly development of StudySync →](/weekly-updates/)
 
 ### TalentTrail
 **Career Analysis Tool**
