@@ -13,7 +13,7 @@ This portfolio is a work in progress and will continue to grow as I complete pro
 
 Before studying computer science, I worked as a music educator and classical vocalist. My transition into technology has given me the opportunity to combine problem solving, creativity, communication, and continuous learning in a new field.
 
-I'm particularly interested in software development and in exploring how AI and machine learning can be incorporated into useful applications.
+I'm particularly interested in software development and exploring how AI and machine learning can be incorporated into useful, user-focused applications.
 
 <details markdown="1">
 
@@ -51,6 +51,9 @@ I am currently building the application in Python using Streamlit. Through this 
 The initial MVP is intentionally narrow so I can focus on building and evaluating a complete study workflow before considering additional subjects and features.
 
 
+[View the StudySync project proposal →](/assets/files/StudySync_Project_Proposal.pdf)
+
+
 #### **Weekly Progress**
 
 I'm documenting the development of StudySync throughout the semester, including project planning, design decisions, new technologies, implementation, and reflection.
@@ -64,11 +67,13 @@ I'm documenting the development of StudySync throughout the semester, including 
 
 An AI-assisted study application that generates study resources and interactive practice from student-provided course materials.
 
-Technologies: Python, Streamlit, Git
+Technologies: Python, Streamlit, Git, Gemini
 
 Current Status: In development
 
-[Follow the development of StudySync →](/weekly-updates/)
+GitHub: [StudySync](https://github.com/kflick3r/StudySync)
+
+[Follow the weekly developments of StudySync →](/weekly-updates/)
 
 ### TalentTrail
 **Career Analysis Tool**
@@ -86,9 +91,10 @@ GitHub: [TalentTrail](https://github.com/kflick3r/Talent_Trail)
 
 ## Resume
 
-My resume is currently being updated as part of my professional development project.
+My resume highlights my education, technical skills, project experience, and professional background.
 
-A downloadable version will be added here soon.
+[View my resume →](/assets/files/Kassidy_Flick_Resume.pdf)
+
 
 ## **Currently**
 
