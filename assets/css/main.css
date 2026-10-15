@@ -4,10 +4,14 @@
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
-/* Widen weekly update articles on desktop screens */
+/* Widen and center weekly update articles on desktop */
 @media (min-width: 80em) {
     .page.wide {
-      width: 100%;
-      padding-right: 0;
+        width: 80%;
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        padding-right: 0;
     }
 }
