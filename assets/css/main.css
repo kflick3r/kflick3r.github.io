@@ -4,14 +4,21 @@
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes";
 
-/* Widen and center weekly update articles on desktop */
+/* Wider overall website container */
+#main {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Wider and centered content on pages without sidebars */
 @media (min-width: 80em) {
-    .page.wide {
-        width: 80%;
-        max-width: 1200px;
+    .layout--single .page {
+        float: none;
+        width: 100%;
+        max-width: 1100px;
         margin-left: auto;
         margin-right: auto;
-        float: none;
         padding-right: 0;
     }
 }
