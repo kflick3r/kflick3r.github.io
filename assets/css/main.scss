@@ -5,15 +5,16 @@
 @import "minimal-mistakes";
 
 /* Wider overall website container */
+/* Center and widen the main website content */
 #main {
     max-width: 1400px;
     margin-left: auto;
     margin-right: auto;
 }
 
-/* Wider and centered content on pages without sidebars */
+/* Remove reserved sidebar space on pages without sidebars */
 @media (min-width: 80em) {
-    .layout--single .page {
+    .layout--single #main > .page {
         float: none;
         width: 100%;
         max-width: 1100px;
