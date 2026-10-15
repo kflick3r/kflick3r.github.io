@@ -1,0 +1,13 @@
+---
+---
+
+@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes";
+
+/* Widen weekly update articles on desktop screens */
+@media (min-width: 80em) {
+    .page.wide {
+      width: 100%;
+      padding-right: 0;
+    }
+}
