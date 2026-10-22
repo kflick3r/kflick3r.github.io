@@ -19,17 +19,13 @@ I'm particularly interested in software development and exploring how AI and mac
 
 <summary>Languages & Technologies</summary>
 
-|   | Language / Technology |
-|--:|-----------------------|
-| 1 | Python |
-| 2 | C++ |
-| 3 | HTML |
-| 4 | CSS |
-| 5 | SQL |
-| 6 | Flask |
-| 7 | Streamlit |
-| 8 | Git |
-| 9 | JavaScript |
+| Category | Technologies |
+|---|---|
+| Programming Languages | Python, C++, JavaScript, SQL |
+| Web Development | HTML, CSS, Flask, Streamlit |
+| AI & Machine Learning | Gemini API, scikit-learn, pandas, NumPy |
+| Development Tools | Git, GitHub, Jupyter Notebook, VS Code |
+| Databases | SQLite |
 
 </details>
 
@@ -44,9 +40,9 @@ My resume highlights my education, technical skills, project experience, and pro
 
 - **Studying:** B.S. in Applied Computer Science at CU Boulder
 - **Building:** StudySync
-- **Learning:** Machine Learning, Natural Language Processing, Streamlit, AI application development, and Web Development
-- **Career Focus:** Software Engineering / Software Development
-- **Exploring:** Applied AI
+- **Learning:** Machine Learning, NLP, LLM Application Development, Prompt Engineering, AI Evaluation, and Web Development
+- **Career Focus:** Software Engineering / Applied AI Development
+- **Exploring:** Machine Learning Engineering, LLM Applications, and Responsible AI
 
 ## Education
 
@@ -60,7 +56,7 @@ B.S. in Applied Computer Science — Expected May 2027
 
 During Fall 2026, I'm completing a semester-long professional development project focused on preparing for my transition into the computer science industry.
 
-I began the semester by researching and comparing several career paths. Based on that research, I am currently focusing on **Software Engineering/Software Development** as my primary career direction, while exploring **Applied AI** as an area I may want to move toward as I gain professional experience.
+I began the semester by researching and comparing several career paths. Based on that research, I am focusing on **Software Engineering** and exploring opportunities in **Applied AI development**. I'm particularly interested in building applications that incorporate large language models, machine learning, and natural language processing to solve practical problems.
 
 #### **Current Phase: Portfolio Project**
 
@@ -87,11 +83,19 @@ I'm documenting the development of StudySync throughout the semester, including 
 
 ### StudySync
 
-An AI-assisted study application that generates study resources and interactive practice from student-provided course materials.
+**AI Study Buddy: An Interactive Study Companion for Students**
 
-Technologies: Python, Streamlit, Git, Gemini
+StudySync is an AI-assisted study application that transforms student-provided course materials into personalized study resources and interactive practice activities.
 
-Current Status: In development
+Built with Python, Streamlit, and Google's Gemini API, the application currently focuses on Natural Language Processing course materials.
+
+**The project includes four planned study tools:** Review Guides, Flashcards, Multiple Choice, and Short Response practice.
+
+**Current Status:** In development. Review Guide, Flashcards and Multiple Choice are implemented. Final evaluation of these features and Short Response is planned next.
+
+**Technologies:** Python, Streamlit, Gemini API, Git, JSON
+
+**Key Areas:** LLM Integration, Prompt Engineering, AI Output Evaluation, Interactive Application Development
 
 GitHub: [StudySync](https://github.com/kflick3r/StudySync)
 
