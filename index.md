@@ -23,7 +23,7 @@ I'm particularly interested in software development and exploring how AI and mac
 |---|---|
 | Programming Languages | Python, C++, JavaScript, SQL |
 | Web Development | HTML, CSS, Flask, Streamlit |
-| AI & Machine Learning | Gemini API, scikit-learn, pandas, NumPy |
+| AI & Machine Learning | Gemini API, scikit-learn, NLTK, pandas, NumPy |
 | Development Tools | Git, GitHub, Jupyter Notebook, VS Code |
 | Databases | SQLite |
 
@@ -39,9 +39,9 @@ My resume highlights my education, technical skills, project experience, and pro
 ## **Currently**
 
 - **Studying:** B.S. in Applied Computer Science at CU Boulder
-- **Building:** StudySync
+- **Building:** StudySync, an AI-powered study application using Python, Streamlit, and Gemini
 - **Learning:** Machine Learning, NLP, LLM Application Development, Prompt Engineering, AI Evaluation, and Web Development
-- **Career Focus:** Software Engineering / Applied AI Development
+- **Career Focus:** Software Engineering and Applied AI Development
 - **Exploring:** Machine Learning Engineering, LLM Applications, and Responsible AI
 
 ## Education
@@ -58,13 +58,13 @@ During Fall 2026, I'm completing a semester-long professional development projec
 
 I began the semester by researching and comparing several career paths. Based on that research, I am focusing on **Software Engineering** and exploring opportunities in **Applied AI development**. I'm particularly interested in building applications that incorporate large language models, machine learning, and natural language processing to solve practical problems.
 
-#### **Current Phase: Portfolio Project**
+#### **Current Phase: Application Development and Evaluation**
 
-For the technical portion of my project, I am developing **StudySync - *AI Study Buddy: An Interactive Study Companion for Students***.
+For the technical portion of my project, I am developing **StudySync: An AI-Powered Study Companion**.
 
 StudySync is an AI-assisted study application designed to turn students' own course materials into personalized study resources and practice activities. For the initial MVP, I am focusing on Natural Language Processing course notes and four study tools: Review Guides, Flashcards, Multiple Choice questions, and Short Response practice.
 
-I am currently building the application in Python using Streamlit. Through this project, I am strengthening my software-development skills while gaining hands-on experience with LLM integration, prompt and context design, AI output evaluation, and building a user-focused AI application.
+StudySync is built with Python, Streamlit, and Google's Gemini API. I have implemented initial versions of all four study tools and am now focusing on adding AI-generated feedback to Short Response, evaluating the quality of generated study materials, and refining the overall user experience. Through this project, I am gaining hands-on experience with LLM integration, prompt engineering, structured JSON output, application state management, and AI evaluation.
 
 The initial MVP is intentionally narrow so I can focus on building and evaluating a complete study workflow before considering additional subjects and features.
 
@@ -83,15 +83,15 @@ I'm documenting the development of StudySync throughout the semester, including 
 
 ### StudySync
 
-**AI Study Buddy: An Interactive Study Companion for Students**
+**An AI-Powered Study Companion**
 
 StudySync is an AI-assisted study application that transforms student-provided course materials into personalized study resources and interactive practice activities.
 
 Built with Python, Streamlit, and Google's Gemini API, the application currently focuses on Natural Language Processing course materials.
 
-**The project includes four planned study tools:** Review Guides, Flashcards, Multiple Choice, and Short Response practice.
+**The project includes four study tools:** Review Guides, Flashcards, Multiple Choice, and Short Response practice.
 
-**Current Status:** In development. Review Guide, Flashcards and Multiple Choice are implemented. Final evaluation of these features and Short Response is planned next.
+**Current Status:** In development. Initial versions of all four study tools are implemented. Current work focuses on adding AI-powered evaluation to Short Response, refining the user experience, and testing the accuracy and usefulness of generated study materials.
 
 **Technologies:** Python, Streamlit, Gemini API, Git, JSON
 
